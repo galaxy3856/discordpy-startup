@@ -64,4 +64,4 @@ async def rect(ctx, about = "募集", cnt = 4, settime = 10.0):
         await msg.remove_reaction(str(reaction.emoji), user)
 
 
-client.run("YOU------TOKEN")
+client.run("NjMwNDI3ODI4NzcyNjY3NDAy.XaE2Pw.BkHmR9nPJs_c7arYOgy1ebjtocc")
